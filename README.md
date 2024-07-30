@@ -2,7 +2,7 @@ Dans le module "Introduction aux web services et API" et dans un TP il nous a é
 
 Objectif du TP :
 
-1.Tester les opérations de lecture : Valider les endpoints GET pour récupérer les listes et les détails des utilisateurs,catégories, véhicules, agences, disponibilités, locations, et avis.
+1. Tester les opérations de lecture : Valider les endpoints GET pour récupérer les listes et les détails des utilisateurs,catégories, véhicules, agences, disponibilités, locations, et avis.
 
 2.Tester les opérations de création : Valider les endpoints POST pour ajouter de nouvelles entrées dans chaque catégorie.
 
