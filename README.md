@@ -15,7 +15,7 @@ Notez les erreurs et les comportements inattendus pour un retour d'expérience c
 # Mes travaux: 
 Pour consulter les scénarios de tests que j'ai réalisés  (Google sheet) [Cliquez ici](https://docs.google.com/spreadsheets/d/1HRS_lkFymDEF0G-zT_OSjWwb0k3PUhypqANurQVzRUs/edit?usp=sharing)
 
-Captures d'écran de l'exécution des cas de tests sur Postman et automatisation [!ici](C:\Users\imeda\Pictures\Screenshots) 
+Captures d'écran de l'exécution des cas de tests sur Postman et automatisation ! [ici](C:\Users\imeda\Pictures\Screenshots) 
 
 
 
