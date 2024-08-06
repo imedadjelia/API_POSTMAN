@@ -4,7 +4,7 @@ Dans le module "Introduction aux web services et API" et dans un TP il nous a é
 
 Tester les opérations de lecture «GET», de création «POST», de mise à jour «PUT» et de suppression «DELETE».
 
-<img width="412" alt="caractères spéciaux 2023-11-15 182319" src="https://github.com/user-attachments/assets/641ae967-ded0-4b5b-abf9-821c5dd1eba4">
+![Capture d'écran 2024-08-06 213716](https://github.com/user-attachments/assets/877b8f7a-ff27-42fa-8590-8b9663b49dfd)
 
 # Consignes : 
 
