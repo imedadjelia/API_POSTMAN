@@ -21,6 +21,8 @@ Captures d'écran de l'exécution des cas de tests sur Postman et automatisation
 
 ![Capture d'écran 2024-08-05 202515](https://github.com/user-attachments/assets/640a3739-40ac-4dd2-bda3-cb7cd315aa06)
 
+![Uploading caractères spéciaux 2023-11-15 182319.png…]()
+
 ![Capture d'écran 2024-08-05 202559](https://github.com/user-attachments/assets/5ce1943c-a2f1-49da-8706-a26848ca98a0)
 
 
