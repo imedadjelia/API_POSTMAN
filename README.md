@@ -8,6 +8,7 @@ Dans le cadre du module "Introduction aux web services et API", nous avons réal
 * Création («POST»)
 * Mise à jour («PUT»)
 * Suppression («DELETE»)
+  
 ![Capture d'écran 2024-08-06 213716](https://github.com/user-attachments/assets/877b8f7a-ff27-42fa-8590-8b9663b49dfd)
 
 # Consignes : 
