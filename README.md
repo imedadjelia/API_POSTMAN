@@ -2,21 +2,25 @@ Dans le cadre du module "Introduction aux web services et API", nous avons réal
 
 # Objectif du TP :
 
-Tester les opérations de lecture «GET», de création «POST», de mise à jour «PUT» et de suppression «DELETE».
+Évaluer et tester les principales opérations d'une API REST :
 
+* Lecture («GET»)
+* Création («POST»)
+* Mise à jour («PUT»)
+* Suppression («DELETE»)
 ![Capture d'écran 2024-08-06 213716](https://github.com/user-attachments/assets/877b8f7a-ff27-42fa-8590-8b9663b49dfd)
 
 # Consignes : 
 
-1. Créez une stratégie de test complète comprenant des cas de test détaillés.
-2. Exécutez les cas de test sur Postman.
-3. Vérifiez les codes de réponse HTTP pour chaque requête et comparez les résultats attendus avec ceux obtenus.
-4. Notez les erreurs et les comportements inattendus pour un retour d'expérience complet.
+1. Créer une stratégie de test complète comprenant des cas de test détaillés.
+2. Exécuter les cas de test sur Postman.
+3. Vérifier les codes de réponse HTTP pour chaque requête et comparer les résultats attendus avec ceux obtenus.
+4. Noter les erreurs et les comportements inattendus pour un retour d'expérience complet.
 
 # Mes travaux : 
 Pour consulter les scénarios de tests que j'ai réalisés  (Google sheet) [Cliquez ici](https://docs.google.com/spreadsheets/d/1HRS_lkFymDEF0G-zT_OSjWwb0k3PUhypqANurQVzRUs/edit?usp=sharing)
 
-Captures d'écran de l'exécution des cas de tests sur Postman et automatisation
+Captures d'écran de l'exécution des cas de tests sur Postman et automatisation : 
 
 ![Capture d'écran 2024-08-06 203505](https://github.com/user-attachments/assets/306986a3-7fed-4e09-884c-daee7e776c30)
 
