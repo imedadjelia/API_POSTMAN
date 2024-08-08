@@ -18,10 +18,10 @@ Dans le cadre du module "Introduction aux web services et API", nous avons réal
 3. Vérifier les codes de réponse HTTP pour chaque requête et comparer les résultats attendus avec ceux obtenus.
 4. Noter les erreurs et les comportements inattendus pour un retour d'expérience complet.
 
-# Mes travaux : 
-Pour consulter les scénarios de tests que j'ai réalisés  (Google sheet) [Cliquez ici](https://docs.google.com/spreadsheets/d/1HRS_lkFymDEF0G-zT_OSjWwb0k3PUhypqANurQVzRUs/edit?usp=sharing)
+# Mes réalisations :
+* Vous pouvez consulter les scénarios de test que j'ai développés dans ce [Google sheet](https://docs.google.com/spreadsheets/d/1HRS_lkFymDEF0G-zT_OSjWwb0k3PUhypqANurQVzRUs/edit?usp=sharing)
 
-Captures d'écran de l'exécution des cas de tests sur Postman et automatisation : 
+* Vous trouverez également ci-dessous des exemples de captures d'écran illustrant l'exécution des cas de test sur Postman, ainsi que le processus d'automatisation.
 
 ![Capture d'écran 2024-08-06 203505](https://github.com/user-attachments/assets/306986a3-7fed-4e09-884c-daee7e776c30)
 
