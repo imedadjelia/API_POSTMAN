@@ -27,7 +27,6 @@ Exemple d'exécution de cas de test :
 ![Capture d'écran 2024-08-06 203505](https://github.com/user-attachments/assets/306986a3-7fed-4e09-884c-daee7e776c30)
 
 Exemple de Scripts pour l'automatisation des tests : 
-
 ![Capture d'écran 2024-08-08 183518](https://github.com/user-attachments/assets/c15b8ff4-e0dc-4046-a26d-31456cdef2af)
 
 Exemple d'automatisation des tests :
