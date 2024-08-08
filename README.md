@@ -8,10 +8,10 @@ Tester les opérations de lecture «GET», de création «POST», de mise à jou
 
 # Consignes : 
 
-1 Créez une stratégie de test complète comprenant des cas de test détaillés.
-2 Exécutez les cas de test sur Postman.
-3 Vérifiez les codes de réponse HTTP pour chaque requête et comparez les résultats attendus avec ceux obtenus.
-4 Notez les erreurs et les comportements inattendus pour un retour d'expérience complet.
+1. Créez une stratégie de test complète comprenant des cas de test détaillés.
+2. Exécutez les cas de test sur Postman.
+3. Vérifiez les codes de réponse HTTP pour chaque requête et comparez les résultats attendus avec ceux obtenus.
+4. Notez les erreurs et les comportements inattendus pour un retour d'expérience complet.
 
 # Mes travaux : 
 Pour consulter les scénarios de tests que j'ai réalisés  (Google sheet) [Cliquez ici](https://docs.google.com/spreadsheets/d/1HRS_lkFymDEF0G-zT_OSjWwb0k3PUhypqANurQVzRUs/edit?usp=sharing)
