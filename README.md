@@ -19,7 +19,7 @@ Dans le cadre du module "Introduction aux web services et API", nous avons réal
 4. Noter les erreurs et les comportements inattendus pour un retour d'expérience complet.
 
 # Mes réalisations :
-* Vous pouvez consulter les scénarios de test que j'ai effectués dans ce [Google sheet] (https://docs.google.com/spreadsheets/d/1HRS_lkFymDEF0G-zT_OSjWwb0k3PUhypqANurQVzRUs/edit?usp=sharing)
+* Vous pouvez consulter les scénarios de test que j'ai effectués dans ce [Google sheet](https://docs.google.com/spreadsheets/d/1HRS_lkFymDEF0G-zT_OSjWwb0k3PUhypqANurQVzRUs/edit?usp=sharing)
 
 * Vous trouverez également ci-dessous des exemples de captures d'écran illustrant l'exécution des cas de test sur Postman, ainsi que le processus d'automatisation.
 
