@@ -19,15 +19,21 @@ Dans le cadre du module "Introduction aux web services et API", nous avons réal
 4. Noter les erreurs et les comportements inattendus pour un retour d'expérience complet.
 
 # Mes réalisations :
-* Vous pouvez consulter les scénarios de test que j'ai effectués dans ce [Google sheet](https://docs.google.com/spreadsheets/d/1HRS_lkFymDEF0G-zT_OSjWwb0k3PUhypqANurQVzRUs/edit?usp=sharing)
+* Vous pouvez consulter les scénarios de test que j'ai effectués dans ce [Google sheet.](https://docs.google.com/spreadsheets/d/1HRS_lkFymDEF0G-zT_OSjWwb0k3PUhypqANurQVzRUs/edit?usp=sharing)
 
 * Vous trouverez également ci-dessous des exemples de captures d'écran illustrant l'exécution des cas de test sur Postman, ainsi que le processus d'automatisation.
 
+Exemple d'exécution de cas de test :
 ![Capture d'écran 2024-08-06 203505](https://github.com/user-attachments/assets/306986a3-7fed-4e09-884c-daee7e776c30)
 
+Exemple de Scripts pour l'automatisation des tests : 
+
+![Capture d'écran 2024-08-08 183518](https://github.com/user-attachments/assets/c15b8ff4-e0dc-4046-a26d-31456cdef2af)
+
+Exemple d'automatisation des tests :
+![Capture d'écran 2024-08-05 202458](https://github.com/user-attachments/assets/b2b962b6-93d9-4358-a63e-abcb607316c2)
 
 ![Capture d'écran 2024-08-05 202559](https://github.com/user-attachments/assets/5ce1943c-a2f1-49da-8706-a26848ca98a0)
 
 
-![Capture d'écran 2024-08-05 202458](https://github.com/user-attachments/assets/b2b962b6-93d9-4358-a63e-abcb607316c2)
 
